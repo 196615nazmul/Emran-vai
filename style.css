@@ -1,0 +1,52 @@
+/* header css */
+html{
+    scroll-behavior: smooth;
+    transition: .5s;
+}
+.header{background: #101446;}
+.header-left img {
+    max-width: 100px;
+}
+.header-right ul li{display: inline-block;}
+.header-right ul li a {
+    display: block;
+    padding: 0 25px;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    line-height: 65px;
+}
+/* slider css */
+.slider{background: url(https://i.ibb.co/qRQZwXR/intro-bg.jpg) no-repeat center center;
+background-size: cover;
+padding: 250px 0;}
+/* Our team css */
+.our-tem{background: #bac1f3;
+padding: 100px 0;}
+.margin {
+    margin-left: 115px;
+    margin-bottom: 15px;
+}
+.btn-n {
+    margin-left: 120px;
+    margin-top: 20px;
+}
+/* about css */
+.about{background: #c2d4ea;
+padding: 100px 0;}
+.testomonial-item {
+    margin-left: 120px;
+}
+.testomonial-item img {
+    margin-bottom: 15px;
+}
+.width{width: 215%!important;}
+.testomonial-text span {
+    line-height: 35px;
+}
+label {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+
